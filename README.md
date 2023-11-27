@@ -1,1 +1,5 @@
 # world-happiness-report
+
+In this data analytics project, the focus lies in the World Happiness Report—an influential survey evaluating global happiness levels. Spanning the years 2013-2016, this report ranks countries based on happiness scores derived from the Cantril ladder question responses. This exploration centers on understanding the prominent factors that contribute to happiness, including economic production, social support, life expectancy, freedom, absence of corruption, and generosity.
+
+This analytical journey involves advanced exploratory analysis in Python to unveil patterns, relationships, and trends within the dataset. The six key factors serve as the focal points of my investigation, aiming to identify their impact on the overall happiness levels of diverse nations. Let's continue onwards and navigate through the intricacies of happiness, integrating insights from various disciplines to contribute to the evolving understanding of the role happiness indicators play in shaping policy decisions.
